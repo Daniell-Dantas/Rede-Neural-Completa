@@ -3,7 +3,8 @@
 <p align="justify">
 💻 Como trabalho proposto no mestrado em Inteligência Computacional, este é um código que implementa, passo a passo, o treinamento e utilização de uma Rede Neural Perceptron Múltiplas camdas utilizando código Python na plataforma "Google Colab". A base dedados utilizada foi disponibilizada para esta disciplina e é referente a um Banco de dados de mamografia e é composto  por 5 variáveis de entrada: Avaliação BI-RADS, idade, forma, margem e densidade. Uma saída (label): classe 0 (normal) ou classe 1 (anormal).
   
-O Notebook do Google Colab pode ser acessado neste link: https://bit.ly/3bc3vSn
+**O Notebook do Google Colab pode ser acessado neste link: https://bit.ly/3bc3vSn**    
+**Também neste repositório você encontrará o código "rede_neural.py" gerado pelo Notebook, caso prefira.**
 </p>
 
 # Metodologia
